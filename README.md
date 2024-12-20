@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full stack web development from PNY at Arfa Software Park
 - 💞️ I’m looking to collaborate on Front-end Development 
 - 📫 How to reach me techclub9t@gmail.com
-- 😄 Pronouns: Rabee
 - ⚡ Fun fact: I am busy
 
 <!---
